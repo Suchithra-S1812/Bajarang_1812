@@ -3,6 +3,7 @@ D/O Suresh
 From Hosadurga
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Chitradurga
 Hiii I am form 
 Chitradurga
@@ -12,3 +13,5 @@ In hosadurga
 =======
 Chitradurga
 >>>>>>> 4198b10 (Update p1.txt)
+=======
+>>>>>>> parent of 4198b10 (Update p1.txt)

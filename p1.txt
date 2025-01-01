@@ -2,9 +2,13 @@ Suchithra S
 D/O Suresh
 From Hosadurga
 <<<<<<< HEAD
+<<<<<<< HEAD
 Chitradurga
 Hiii I am form 
 Chitradurga
 In hosadurga
 =======
 >>>>>>> 9732bae (new linw added)
+=======
+Chitradurga
+>>>>>>> 4198b10 (Update p1.txt)
